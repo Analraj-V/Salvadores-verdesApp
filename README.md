@@ -1,2 +1,2 @@
 # Salvadores-verdes
-DEMO VIDEO : https://www.youtube.com/watch?v=1kPF7HdMXnQ
+master branch contains roadmap and a PDF about the idea.Main has the code
